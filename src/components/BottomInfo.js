@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 export default function BottomInfo() {
   return (
     <footer className="footer bg-light">
